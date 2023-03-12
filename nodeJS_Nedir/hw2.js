@@ -4,7 +4,7 @@ const posts = [
 ];
 
 const listPost = () => {
-  posts.map((post) => {
+  posts.map((posts) => {
   console.log(posts.name);  
   });
 };
